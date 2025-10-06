@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   }
 
   s.rdoc_options = ["--title", "Roda-Papercraft", "--main", "README.md"]
-  s.extra_rdoc_files = ["README.md", "papercraft.png"]
+  s.extra_rdoc_files = ["README.md"]
   s.require_paths = ["lib"]
   s.required_ruby_version = '>= 3.4'
 
