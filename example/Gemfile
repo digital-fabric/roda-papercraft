@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "roda"
+gem "rackup"
+gem "webrick"
+gem "roda-papercraft", path: ".."
